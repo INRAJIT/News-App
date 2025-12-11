@@ -6,6 +6,8 @@ Kotlin-based Android news app helps users stay up-to-date on the latest headline
 ###👨‍💻 Contributors
 ✨ Lead Contributor
 
+
+
 🧑‍💻 Rajit Raha
 Creator & Maintainer — Responsible for app architecture, UI/UX, feature development, API integration, Room Database setup, and overall project direction.
 
