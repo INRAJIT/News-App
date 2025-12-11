@@ -51,13 +51,12 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
  * Rebuild app
  
 
-### Application link : <a href="https://drive.google.com/file/d/1u0A4mCkY98cfavE32c6GH_bVp0v9wujr/view?usp=sharing">**Click here to download apk**</a>
 
 ### Contributing
 
    - Contributions are always welcome!
 
-   - See [CONTRIBUTING.md] for ways to get started.
+   - See [https://github.com/INRAJIT/News-App/blob/main/CONTRIBUTING.md] for ways to get started.
 
 
 
