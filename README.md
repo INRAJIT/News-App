@@ -1,7 +1,27 @@
-# News-App 📰
+## News-App 📰
 
 ### Overview :
 Kotlin-based Android news app helps users stay up-to-date on the latest headlines.
+
+###👨‍💻 Contributors
+✨ Lead Contributor
+
+🧑‍💻 Rajit Raha
+Creator & Maintainer — Responsible for app architecture, UI/UX, feature development, API integration, Room Database setup, and overall project direction.
+
+📌 Highlights of Contribution
+
+Architected the entire app using MVVM for clean, scalable code.
+
+Implemented Retrofit, Room, Text-to-Speech, and category-wise news flow.
+
+Built smooth UI with Shimmer, Picasso, and custom views.
+
+Added modern features like Dark Mode, Bookmarks, and News Sharing.
+
+Managed end-to-end development from planning to final release.
+
+
 
 ### Features :
 * Display News in various categories 
@@ -20,7 +40,7 @@ Kotlin-based Android news app helps users stay up-to-date on the latest headline
  * MVVM Architecture
  * Room database library
  * Android Studio
- * Third party libraries like [retrofit](https://square.github.io/retrofit/), [picasso](https://square.github.io/picasso/), [shimmer](https://github.com/facebook/shimmer-android).
+ * Third party libraries like [retrofit](https://square.github.io/retrofit/), [picasso](https://square.github.io/picasso/) .
 
 ### Getting Started :
 Note: To run the app you have to add NewsAPI.org key. This API has limited access to daily request for News. 
@@ -37,7 +57,7 @@ Note: To run the app you have to add NewsAPI.org key. This API has limited acces
 
    - Contributions are always welcome!
 
-   - See [CONTRIBUTING.md](https://github.com/Raj-m01/News-App/blob/master/CONTRIBUTING.md) for ways to get started.
+   - See [CONTRIBUTING.md] for ways to get started.
 
 
 
