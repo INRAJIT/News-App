@@ -1,12 +1,7 @@
-Looking to report an issue/bug or make a feature request? Please refer to the [README file](https://github.com/Raj-m01/News-App/blob/master/README.md).
-
----
-
-Thanks for your interest in contributing!
 
 # Code contributions
 
-If you're interested in taking on [an open issue](https://github.com/Raj-m01/News-App/issues), please comment on it so others are aware.
+If you're interested please comment on it so others are aware.
 You do not need to ask for permission nor an assignment. Be sure to include a **title, clear description** and **test case** demonstrating the new feature you want to add to the project.
 
 ## Prerequisites
@@ -78,12 +73,7 @@ After the successful fork, you'll acknowledge a copy of this repo on your own.
     - After that you have to write your GitHub username as the title of your pull-request and describe your work if you want and that's it!! Create a pull-request by clicking the button
     Also add the below 2 lines in the description. It is compulsory for successful submission.
 
-    ![Screenshot 2021-09-26 at 6 58 08 PM](https://user-images.githubusercontent.com/58077762/94461826-43fab680-01d8-11eb-96cd-80b2d69e13be.png)
-
-
-     - [X] I have read the Code Of Conduct.
-
-     - [X] I have followed all the steps of submission properly.
+   
 
 
 
